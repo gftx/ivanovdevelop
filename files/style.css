@@ -13,10 +13,10 @@ body {
 }
 
 .portfolio {
-  margin: 50px;
-  display: flex;
-  justify-content: space-around;
-  flex-wrap: wrap;
+	margin: 50px;
+	display: flex;
+	justify-content: space-around;
+	flex-wrap: wrap;
 }
 
 #wrapper_portfolio {
@@ -27,10 +27,9 @@ body {
 	user-select: none;
 }
 
-
 #wrapper_works {
-  width: 600px;
-  text-align: center;
+	width: 600px;
+	text-align: center;
 }
 
 h1 {
@@ -85,13 +84,12 @@ a:hover {
 	color: #f33;
 }
 
-.myPhoto{
-  display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
-  justify-content: space-around;
-  width: 80%;
-
+.myPhoto {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: space-around;
+	width: 80%;
 }
 
 .myPhoto_photo > img,
@@ -100,18 +98,42 @@ a:hover {
 }
 
 .aboutMe {
+	text-align: center;
+	width: 90%;
+}
+
+.aboutMe > div {
 	text-align: left;
 }
 
 .work {
-  display: flex;
-  flex-direction: column;
+	display: flex;
+	flex-direction: column;
 }
 
 .work > div {
-  margin: 10px;
+	margin: 10px;
 }
 
 .work_img > img {
-  width: 350px;
+	width: 350px;
+}
+
+@media (max-width: 400px) {
+	#wrapper_portfolio {
+		width: 300px;
+	}
+
+	#wrapper_works {
+		width: 300px;
+	}
+
+	.myPhoto_photo > img,
+	.myPhoto_description > img {
+		width: 150px;
+	}
+
+	.work_img > img {
+		width: 250px;
+	}
 }
