@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ivanovdevelop/static/css/main.7f2d8df6.css",
-    "main.js": "/ivanovdevelop/static/js/main.938f0e40.js",
+    "main.js": "/ivanovdevelop/static/js/main.53bda726.js",
     "static/js/787.28cb0dcd.chunk.js": "/ivanovdevelop/static/js/787.28cb0dcd.chunk.js",
     "static/media/pizza.png": "/ivanovdevelop/static/media/pizza.84f114f884ef3ba8d795.png",
     "static/media/med.png": "/ivanovdevelop/static/media/med.9c0f6ec90da9b7e91e65.png",
@@ -13,11 +13,11 @@
     "static/media/logo.svg": "/ivanovdevelop/static/media/logo.0f3baea4820e95a4dd9b5e87483f81ce.svg",
     "index.html": "/ivanovdevelop/index.html",
     "main.7f2d8df6.css.map": "/ivanovdevelop/static/css/main.7f2d8df6.css.map",
-    "main.938f0e40.js.map": "/ivanovdevelop/static/js/main.938f0e40.js.map",
+    "main.53bda726.js.map": "/ivanovdevelop/static/js/main.53bda726.js.map",
     "787.28cb0dcd.chunk.js.map": "/ivanovdevelop/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f2d8df6.css",
-    "static/js/main.938f0e40.js"
+    "static/js/main.53bda726.js"
   ]
 }
