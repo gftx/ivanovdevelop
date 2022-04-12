@@ -10,7 +10,6 @@ function App() {
 
 	useEffect(() => {
 		background()
-		console.log(process.env.PUBLIC_URL)
 	},[])
 
 	return (
