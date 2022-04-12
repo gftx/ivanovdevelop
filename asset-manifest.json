@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.7f2d8df6.css",
-    "main.js": "/static/js/main.f829189b.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "static/media/pizza.png": "/static/media/pizza.84f114f884ef3ba8d795.png",
-    "static/media/med.png": "/static/media/med.9c0f6ec90da9b7e91e65.png",
-    "static/media/snow.png": "/static/media/snow.4bbfbec660cba9c65d44.png",
-    "static/media/working.jpg": "/static/media/working.fa670d78e131ae86083c.jpg",
-    "static/media/fam.png": "/static/media/fam.6fa5ed4530c017a3c72f.png",
-    "static/media/CV.pdf": "/static/media/CV.f850a84e3004599d479f.pdf",
-    "static/media/arrow.svg": "/static/media/arrow.ee8891b79ea318d4a8288143c45e222d.svg",
-    "static/media/logo.svg": "/static/media/logo.0f3baea4820e95a4dd9b5e87483f81ce.svg",
-    "index.html": "/index.html",
-    "main.7f2d8df6.css.map": "/static/css/main.7f2d8df6.css.map",
-    "main.f829189b.js.map": "/static/js/main.f829189b.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "https://ivanovdevelop.ru/static/css/main.7f2d8df6.css",
+    "main.js": "https://ivanovdevelop.ru/static/js/main.3897d5af.js",
+    "static/js/787.28cb0dcd.chunk.js": "https://ivanovdevelop.ru/static/js/787.28cb0dcd.chunk.js",
+    "static/media/pizza.png": "https://ivanovdevelop.ru/static/media/pizza.84f114f884ef3ba8d795.png",
+    "static/media/med.png": "https://ivanovdevelop.ru/static/media/med.9c0f6ec90da9b7e91e65.png",
+    "static/media/snow.png": "https://ivanovdevelop.ru/static/media/snow.4bbfbec660cba9c65d44.png",
+    "static/media/working.jpg": "https://ivanovdevelop.ru/static/media/working.fa670d78e131ae86083c.jpg",
+    "static/media/fam.png": "https://ivanovdevelop.ru/static/media/fam.6fa5ed4530c017a3c72f.png",
+    "static/media/CV.pdf": "https://ivanovdevelop.ru/static/media/CV.f850a84e3004599d479f.pdf",
+    "static/media/arrow.svg": "https://ivanovdevelop.ru/static/media/arrow.ee8891b79ea318d4a8288143c45e222d.svg",
+    "static/media/logo.svg": "https://ivanovdevelop.ru/static/media/logo.0f3baea4820e95a4dd9b5e87483f81ce.svg",
+    "index.html": "https://ivanovdevelop.ru/index.html",
+    "main.7f2d8df6.css.map": "https://ivanovdevelop.ru/static/css/main.7f2d8df6.css.map",
+    "main.3897d5af.js.map": "https://ivanovdevelop.ru/static/js/main.3897d5af.js.map",
+    "787.28cb0dcd.chunk.js.map": "https://ivanovdevelop.ru/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7f2d8df6.css",
-    "static/js/main.f829189b.js"
+    "static/js/main.3897d5af.js"
   ]
 }
