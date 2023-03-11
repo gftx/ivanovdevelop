@@ -1,3 +1,3 @@
-# This is my own TS + React site
+# This is my own TS + React app
 
-This project deployed on [GH-Pages](https://ivanovdevelop.ru)
+This project deployed on GH-Pages
