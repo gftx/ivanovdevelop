@@ -56,6 +56,10 @@ body {
         color: #f33;
       }
     }
+    &-button {
+      background-color: inherit;
+      border: none;
+    }
   }
   .canvas {
     position: absolute;
